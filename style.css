@@ -1,0 +1,16 @@
+#post-container {
+  display: inline-block;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.post {
+  align-items: center;
+  display: inline-block;
+  width: 90%;
+  margin-left: 5%;
+}
+
+pre {
+  background: #dcdcdc;
+}
